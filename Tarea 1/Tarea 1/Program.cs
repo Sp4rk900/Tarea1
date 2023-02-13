@@ -48,9 +48,16 @@ namespace Tarea_1
 
            Console.ReadKey();
 
-                
+                    
+            /*Respuesta:
 
+            La manipulacion de los atributos "origen" "final" a traves de la sobrecarga del operador es posible gracias a que estos atributos son privados para 
+            cualquier ambito externo a la clase "Vector" siendo estos exclusivos a los metodos internos de la clase, aun asi estos metodos pueden permitir su acceso
+            desde un ambito externo a la clase.
 
+           */  
+            
+            
         }
     }
 }
