@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\danie\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
